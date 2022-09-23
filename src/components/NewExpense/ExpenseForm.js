@@ -73,7 +73,7 @@ const ExpenseForm = () => {
                         step='0.01'
                         value={enteredAmount}
                         onChange={amountChangeHandler}
-                        xzl/>
+                    />
                 </div>
                 <div className='new-expense__control'>
                     <label>Date</label>
